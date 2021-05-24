@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "605055960885",
+    "project_id": "ds-food-app",
+    "storage_bucket": "ds-food-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605055960885:android:9d5f949b39cab1bc116e7c",
+        "android_client_info": {
+          "package_name": "com.bawantha.ds_mr_canteen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605055960885-nsjlevchf3fos5o212fuob4ffcrc5j69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9GSFbcCFHV55IdYgPPUIPXeNFpmEkGkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605055960885-nsjlevchf3fos5o212fuob4ffcrc5j69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
